@@ -1,0 +1,17 @@
+{
+    "Temperature": {
+        "avg_min": 97,
+        "avg_max": 99,
+        "trigger_count": 5
+    },
+    "SPO2": {
+        "avg_min": 95,
+        "avg_max": 100,
+        "trigger_count": 5
+    },
+    "HeartRate": {
+        "avg_min": 60,
+        "avg_max": 110,
+        "trigger_count": 3
+    }
+}

@@ -1,0 +1,5 @@
+Run from Command Window1
+python BedSideMonitor1.py -e a3fhbju8xoji12-ats.iot.us-east-1.amazonaws.com -r AmazonRootCA1_1.pem -c 2c1f7cb5d75174707ae08bdb718bc986a2b870afcc05138b2fbc28f5c1e9fe20-certificate.pem.crt -k 2c1f7cb5d75174707ae08bdb718bc986a2b870afcc05138b2fbc28f5c1e9fe20-private.pem.key -id BSM_G101 -t hospital/bangalore/bsm_g101
+
+Run from Command Window2
+python BedSideMonitor2.py -e a3fhbju8xoji12-ats.iot.us-east-1.amazonaws.com -r AmazonRootCA1_2.pem -c 4b13711276e5db9fc94414e3915a403442549a4da931db15b4af4e3d94e680d2-certificate.pem.crt -k 4b13711276e5db9fc94414e3915a403442549a4da931db15b4af4e3d94e680d2-private.pem.key -id BSM_G102 -t hospital/bangalore/bsm_g102
